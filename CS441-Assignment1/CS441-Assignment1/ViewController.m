@@ -20,6 +20,12 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
+- (IBAction)changeMessage:(id)sender{
+    [label setText:[self mytext:44 othervalue:55]];
+}
+- (NSString *)mytext:(int)value othervalue:(int)othervalue{
+    return [NSString stringWithFormat:@"value: %d", value * othervalue];
+}
 
 
 @end
