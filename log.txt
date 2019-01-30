@@ -1,0 +1,41 @@
+commit 22ab5136cc4087f45f04c8c277a9c16cc4ff679d
+Author: Taehyun Cho <taehyuncho@Taehyuns-MacBook-Air.local>
+Date:   Wed Jan 30 15:44:24 2019 -0500
+
+    Finished product. Updated the Readme. Final commit
+
+commit f8bdd263ca04e2d9248445e46d66bf4927c30720
+Author: Taehyun Cho <taehyuncho@Taehyuns-MacBook-Air.local>
+Date:   Wed Jan 30 15:37:36 2019 -0500
+
+    Implemented the section for the application to generate random meme images after pressing a button. (Finalized)
+
+commit 9d2ea9605b207ebb57c040cd9ad1772e93a02f5a
+Author: Taehyun Cho <taehyuncho@Taehyuns-MacBook-Air.local>
+Date:   Sat Jan 26 21:56:20 2019 -0500
+
+    Implemented a Button. Will go back later to update certain features and make it do something interesting.
+
+commit 6233d8d8caecb7729c0e54b623b085dbcc83d704
+Author: Taehyun Cho <tcho5@binghamton.edu>
+Date:   Sat Jan 26 21:48:09 2019 -0500
+
+    Update README.md
+
+commit 8b69a3fc522d398a663b0a59380c796cec4e648e
+Author: Taehyun Cho <taehyuncho@Taehyuns-MacBook-Air.local>
+Date:   Sat Jan 26 21:46:12 2019 -0500
+
+    Implemented "Hello World" into the display for the application
+
+commit 0a7992514381c49059f976be47f02241a8d8bac4
+Author: Taehyun Cho <taehyuncho@Taehyuns-MacBook-Air.local>
+Date:   Sat Jan 26 21:42:13 2019 -0500
+
+    Initial Commit with IOS code and files
+
+commit a3eaee0d3ca420a37ab147e4969332c1db50363f
+Author: Taehyun Cho <tcho5@binghamton.edu>
+Date:   Sat Jan 26 21:39:01 2019 -0500
+
+    Initial commit
