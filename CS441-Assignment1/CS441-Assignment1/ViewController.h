@@ -8,9 +8,13 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController{
+    IBOutlet UIImageView *imageview; //Implemented for random images
+}
+-(IBAction)randomaImageButton;
 
 @property (nonatomic, strong) IBOutlet UILabel *label;
+
 
 
 @end

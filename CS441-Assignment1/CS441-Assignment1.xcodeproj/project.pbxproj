@@ -13,6 +13,11 @@
 		BC5E844521FD51B700607B8D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC5E844421FD51B700607B8D /* Assets.xcassets */; };
 		BC5E844821FD51B700607B8D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC5E844621FD51B700607B8D /* LaunchScreen.storyboard */; };
 		BC5E844B21FD51B700607B8D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BC5E844A21FD51B700607B8D /* main.m */; };
+		BC5E84572201FCD300607B8D /* meme1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC5E84532201FCD300607B8D /* meme1.jpg */; };
+		BC5E845C2201FD3800607B8D /* meme2.png in Resources */ = {isa = PBXBuildFile; fileRef = BC5E84592201FD3800607B8D /* meme2.png */; };
+		BC5E845D2201FD3800607B8D /* meme3.png in Resources */ = {isa = PBXBuildFile; fileRef = BC5E845A2201FD3800607B8D /* meme3.png */; };
+		BC5E845E2201FD3800607B8D /* meme4.png in Resources */ = {isa = PBXBuildFile; fileRef = BC5E845B2201FD3800607B8D /* meme4.png */; };
+		BC5E84602202423400607B8D /* memeGenerator.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BC5E845F2202423400607B8D /* memeGenerator.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +31,11 @@
 		BC5E844721FD51B700607B8D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BC5E844921FD51B700607B8D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BC5E844A21FD51B700607B8D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		BC5E84532201FCD300607B8D /* meme1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meme1.jpg; sourceTree = "<group>"; };
+		BC5E84592201FD3800607B8D /* meme2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = meme2.png; sourceTree = "<group>"; };
+		BC5E845A2201FD3800607B8D /* meme3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = meme3.png; sourceTree = "<group>"; };
+		BC5E845B2201FD3800607B8D /* meme4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = meme4.png; sourceTree = "<group>"; };
+		BC5E845F2202423400607B8D /* memeGenerator.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = memeGenerator.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +52,11 @@
 		BC5E842F21FD51B400607B8D = {
 			isa = PBXGroup;
 			children = (
+				BC5E84592201FD3800607B8D /* meme2.png */,
+				BC5E845A2201FD3800607B8D /* meme3.png */,
+				BC5E845F2202423400607B8D /* memeGenerator.jpeg */,
+				BC5E845B2201FD3800607B8D /* meme4.png */,
+				BC5E84532201FCD300607B8D /* meme1.jpg */,
 				BC5E843A21FD51B400607B8D /* CS441-Assignment1 */,
 				BC5E843921FD51B400607B8D /* Products */,
 			);
@@ -129,8 +144,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC5E844821FD51B700607B8D /* LaunchScreen.storyboard in Resources */,
+				BC5E84602202423400607B8D /* memeGenerator.jpeg in Resources */,
 				BC5E844521FD51B700607B8D /* Assets.xcassets in Resources */,
+				BC5E84572201FCD300607B8D /* meme1.jpg in Resources */,
+				BC5E845D2201FD3800607B8D /* meme3.png in Resources */,
+				BC5E845E2201FD3800607B8D /* meme4.png in Resources */,
 				BC5E844321FD51B400607B8D /* Main.storyboard in Resources */,
+				BC5E845C2201FD3800607B8D /* meme2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
