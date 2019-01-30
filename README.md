@@ -9,3 +9,6 @@ In either Android or iOS, write a simple app that displays a Hello World message
 Application Idea:
 
 This simple application generates the Hello World Display with a button that allows a user to generate a random meme. With each click, a random meme appears. The meme images are stored locally into the program file directories. 
+
+
+![Meme Generator](https://github.com/tcho5/CS441-Assignment-1/blob/master/Screen%20Shot%202019-01-30%20at%203.37.03%20PM.png)
